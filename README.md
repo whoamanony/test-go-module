@@ -1,0 +1,1 @@
+# just a go module rule test
